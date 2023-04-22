@@ -6,7 +6,7 @@
     <title>My Resume</title>
 </head>
 <body>
-    <img src="../assets/images/MauricioVentura.jpeg" alt="Mauricio Headshot" width="200px" height="200" style="border:5px solid grey"/>
+    <img src="images/MauricioVentura.jpeg" alt="Mauricio Headshot" width="200px" height="200" style="border:5px solid grey"/>
 
     <!--Objective-->
     <h1>Objective Statement</h1>
